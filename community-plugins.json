@@ -8265,5 +8265,12 @@
     "author": "Johan Satgé",
     "description": "Create a table of contents in a note, that updates itself when the note changes",
     "repo": "johansatge/obsidian-automatic-table-of-contents"
+  },
+  {
+     "id": "side-note",
+    "name": "Side Note",
+    "author": "gao xin",
+    "description": "a side note",
+    "repo": "gaoxin3220119/SideNote"
   }
 ]
